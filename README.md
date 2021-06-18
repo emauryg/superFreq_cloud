@@ -38,3 +38,7 @@ For memory and cpu requiremements I noticed that following the recommendations o
 * genome: 10-20 cpus ( ~20GB memory per cpu typically enough)
 
 One of the most expensive steps is the localization of the reference normal samples, which you can choose to be from either 2-10 samples, but for RNA sequence we recommend 10 to make sure we remove as much technical artifact as possible. 
+
+
+### TODO:
+- We are currently setting up a link to a public Terra workspace where all these scripts will be deposited and easily run with their API. 
