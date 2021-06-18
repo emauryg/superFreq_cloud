@@ -1,0 +1,5 @@
+{"superfreq.final_metadata":"${this.final_metadata}",
+    "superfreq.final_metadata_full":"${this.final_metadata_full}",
+    "superfreq.superFreq_out":"${this.superFreq_out}",
+    "superfreq.superFreq_plots":"${this.superFreq_plots}",
+    "superfreq.superFreq_segments":"${this.superFreq_segments}"}

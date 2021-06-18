@@ -1,0 +1,10 @@
+{"super_freq.additional_disk_size":"${}",
+    "super_freq.fasta_ref":"${workspace.referenceData_b37Human_ref_fasta}",
+    "super_freq.fasta_ref_idx":"${workspace.referenceData_b37Human_ref_fasta_index}",
+    "super_freq.input_bam":"${this.raw_bam}",
+    "super_freq.input_bam_index":"${this.raw_bam_bai}",
+    "super_freq.machine_gb":"${}",
+    "super_freq.run_varscan.command_mem":"${}",
+    "super_freq.run_varscan.preemptible_attempts":"${}",
+    "super_freq.sample_name":"${this.sample_id}",
+    "super_freq.varscan_docker":"${}"}
