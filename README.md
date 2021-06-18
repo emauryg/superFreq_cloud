@@ -1,4 +1,4 @@
-# supFreq in the Cloud
+# superFreq in the Cloud
 
 ## Description 
 
